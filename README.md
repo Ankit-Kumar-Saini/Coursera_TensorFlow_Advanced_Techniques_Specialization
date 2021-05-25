@@ -10,8 +10,8 @@
 
 
 ## Instructions to use the repository<a name="Instruction"></a>
-Clone this repository to use. It contains all my work for this specialization. All the code base, screenshots, and images are taken from unless specified, [TensorFlow: Advanced Techniques Specialization on Coursera](https://www.coursera.org/specializations/tensorflow-advanced-techniques). 
-	`Note`: The solutions uploaded in this repository are only for reference when you got stuck somewhere. Please don't use these solutions to pass the programming assignments.
+- Clone this repository to use. It contains all my work for this specialization. All the code base, screenshots, and images are taken from unless specified, [TensorFlow: Advanced Techniques Specialization on Coursera](https://www.coursera.org/specializations/tensorflow-advanced-techniques). 
+- `Note`: The solutions uploaded in this repository are only for reference when you got stuck somewhere. Please don't use these solutions to pass the programming assignments.
 
 
 ## My Learnings from the Specialization<a name="Learning"></a>
