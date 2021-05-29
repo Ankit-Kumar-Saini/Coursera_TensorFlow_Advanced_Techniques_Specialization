@@ -86,6 +86,7 @@ This specialization from coursera consists of four courses. Below are my learnin
 
 	- **[Week 3: Variational Autoencoders on Anime Faces](https://github.com/Ankit-Kumar-Saini/Coursera_TensorFlow_Advanced_Techniques_Specialization/blob/main/C4%20-%20Generative%20Deep%20Learning%20with%20TensorFlow/Week3/C4W3_Assignment.ipynb)**
 
+	- **[Week 4: GANs with Hands](https://github.com/Ankit-Kumar-Saini/Coursera_TensorFlow_Advanced_Techniques_Specialization/blob/main/C4%20-%20Generative%20Deep%20Learning%20with%20TensorFlow/Week4/C4W4_Assignment.ipynb)**
 
 ## Results<a name="Res"></a>
 `Some results from the programming assignments of this specialization`
