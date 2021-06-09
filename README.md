@@ -91,33 +91,29 @@ This specialization from coursera consists of four courses. Below are my learnin
 ## Results<a name="Result"></a>
 `Some results from the programming assignments of this specialization`
 
-1. Bird detection
-![alt text](https://github.com/Ankit-Kumar-Saini/Coursera_TensorFlow_Advanced_Techniques_Specialization/blob/main/sample_images/bird_detection.PNG)
-
-
-2. Object detection on MNIST digits dataset
+1. Object detection on MNIST digits dataset
 ![alt text](https://github.com/Ankit-Kumar-Saini/Coursera_TensorFlow_Advanced_Techniques_Specialization/blob/main/sample_images/digit_detection.PNG)
 
 
-3. Object detection using RetinaNet
+2. Object detection using RetinaNet
 ![alt text](https://github.com/Ankit-Kumar-Saini/Coursera_TensorFlow_Advanced_Techniques_Specialization/blob/main/sample_images/retina_net.PNG)
 
 
-4. Object detection using Mask RCNN
+3. Object detection using Mask RCNN
 ![alt text](https://github.com/Ankit-Kumar-Saini/Coursera_TensorFlow_Advanced_Techniques_Specialization/blob/main/sample_images/mask_rcnn.PNG)
 
 
-5. Image segmentation on MNIST digits dataset
+4. Image segmentation on MNIST digits dataset
 ![alt text](https://github.com/Ankit-Kumar-Saini/Coursera_TensorFlow_Advanced_Techniques_Specialization/blob/main/sample_images/digits_segmentation.PNG)
 
 
-6. Image segmentation on pets dataset
+5. Image segmentation on pets dataset
 ![alt text](https://github.com/Ankit-Kumar-Saini/Coursera_TensorFlow_Advanced_Techniques_Specialization/blob/main/sample_images/image_segmentation.PNG)
 
 
-7. Scene segmentation
+6. Scene segmentation
 ![alt text](https://github.com/Ankit-Kumar-Saini/Coursera_TensorFlow_Advanced_Techniques_Specialization/blob/main/sample_images/scene_segmentation.PNG)
 
 
-8. Saliency maps
+7. Saliency maps
 ![alt text](https://github.com/Ankit-Kumar-Saini/Coursera_TensorFlow_Advanced_Techniques_Specialization/blob/main/sample_images/saliency_maps.PNG)
