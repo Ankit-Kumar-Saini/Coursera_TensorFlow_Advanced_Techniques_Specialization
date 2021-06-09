@@ -91,12 +91,12 @@ This specialization from coursera consists of four courses. Below are my learnin
 ## Results<a name="Result"></a>
 `Some results from the programming assignments of this specialization`
 
-1. Object detection on MNIST digits dataset
-![alt text](https://github.com/Ankit-Kumar-Saini/Coursera_TensorFlow_Advanced_Techniques_Specialization/blob/main/sample_images/digit_detection.PNG)
-
-
-2. Bird detection
+1. Bird detection
 ![alt text](https://github.com/Ankit-Kumar-Saini/Coursera_TensorFlow_Advanced_Techniques_Specialization/blob/main/sample_images/bird_detection.PNG)
+
+
+2. Object detection on MNIST digits dataset
+![alt text](https://github.com/Ankit-Kumar-Saini/Coursera_TensorFlow_Advanced_Techniques_Specialization/blob/main/sample_images/digit_detection.PNG)
 
 
 3. Object detection using RetinaNet
